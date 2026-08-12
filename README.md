@@ -295,6 +295,13 @@ Open http://localhost:8501 and enter a business idea.
 - **Creator:** [mercael91](https://github.com/mercael91)
 - **Telegram:** [@mercael](https://t.me/mercael)
 
+## Related Projects
+
+- **[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — Autonomous AI agent for open-source contributions.
+- **[LikAI](https://github.com/mercael91/likai)** — AI content platform with style mimicry.
+- **[Nexus Analytica](https://github.com/mercael91/nexus-analitica)** — AI news intelligence with consensus analysis.
+- **[Tinkoff Scalper](https://github.com/mercael91/tinkoff-scalper)** — Autonomous scalper bot for Russian stock market.
+
 ---
 
 <div align="center">
